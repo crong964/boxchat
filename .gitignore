@@ -1,0 +1,8 @@
+node_modules
+.vscode
+dist/public/map/*
+dist/public/upload/*
+dist/public/avatar/*
+.commandgit
+.env
+credentials.json
